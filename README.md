@@ -1,6 +1,5 @@
 # 20210406
-c++
-void loop() {
+``` c++void loop() {
  digitalWrite(trigPin, LOW);
  delayMicroseconds(5);
  digitalWrite(trigPin, HIGH);
@@ -22,5 +21,4 @@ void loop() {
  Serial.println();
 
  delay(250);
-}
-~~
+}```
