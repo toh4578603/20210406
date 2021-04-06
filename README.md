@@ -1,5 +1,6 @@
 # 20210406
-``` c++void loop() {
+```cpp
+void loop() {
  digitalWrite(trigPin, LOW);
  delayMicroseconds(5);
  digitalWrite(trigPin, HIGH);
